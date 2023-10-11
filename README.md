@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Deepak-karmiyal
 - 👀 I’m interested in ...data analyst
-- 🌱 I’m currently learning ...data analyst
+- 🌱 I’m currently learning ...data analytic
+- 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
